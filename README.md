@@ -12,12 +12,6 @@
 
 Create bar chart using pyplot
 
-### Step 5: Statistical analysis
+### Step 5: Interpret data
 
-Create scatter plot with y = mx + b equation
-
-Calculate r-value to determine if there is any correlation between country and salary
-
-### Step 6: Interpret data
-
-### Step 7: Presentation
+### Step 6: Presentation
